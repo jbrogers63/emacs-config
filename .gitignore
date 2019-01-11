@@ -1,0 +1,7 @@
+elpa/
+.python-environments/
+auto-save-list
+*.dat
+*.data
+*.eld
+tramp
