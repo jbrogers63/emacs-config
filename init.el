@@ -24,7 +24,6 @@
 			      "exec-path-from-shell.el"
 			      "autopair.el"
 			      "neotree.el"
-			      "projectile.el"
 			      "slime.el"
 			      "jedi.el"
 			      "auto-complete-mode.el"
